@@ -2,6 +2,6 @@
 
 int main()
 {
-	printf("Pozdrav iz aplikacije od Dominika Birtica!");
+	printf("Pozdrav iz aplikacije od Dominika Birtica nova oznaka indeksa!");
 	return 0;
 }
